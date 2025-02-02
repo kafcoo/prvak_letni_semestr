@@ -1,6 +1,6 @@
 # prvak_letni_semestr
 
-## Matematika
+## Matematika 2A
 Ve složce MA2A najdete materiály z roku 2024.
 Moje doporučení, pokud jednotlivé příklady nebudou stejné i pro váš rok, zkuste si propočítat ideálně vše.
 Za správnost neručím, ale všechno počítal cvičící, tak bych počítal, že to bude správně.
